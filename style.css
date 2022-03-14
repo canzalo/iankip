@@ -165,7 +165,7 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-    background: url("images/banner.png") no-repeat center;
+    background: url("https://user-images.githubusercontent.com/44494765/158124191-c01f0311-569c-4dbc-b7c4-eeaf21269b40.png") no-repeat center;
     height: 100vh;
     color: #fff;
     min-height: 500px;
@@ -274,7 +274,7 @@ section .title::after{
 }
 .services .serv-content .card{
     width: calc(33% - 20px);
-    background-image: linear-gradient(rgba(75, 74, 84, 0.2), rgba(75, 74, 84, 0.2)), url(images/project-bg.jpg);
+    background-image: linear-gradient(rgba(75, 74, 84, 0.2), rgba(75, 74, 84, 0.2)), url("https://user-images.githubusercontent.com/44494765/158124356-a3c10cbf-a0d8-435c-ab1f-d20bc19eefde.jpg");
     text-align: center;
     border-radius: 6px;
     padding: 50px 25px;
